@@ -37,6 +37,4 @@ Put and image of your UML Diagram here. Upload the image of your UML Diagram to 
 
 ## Description 
 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
-
 The purpose of our project is to do our job as a basketball analyst and determine who is the best scorer of the 2023-2024 NBA playoffs. In order to do this, we must analyze the stats of players in the 2023-2024 NBA playoffs to find who is the best scorer. Using data sets we found from Kaggle, we were able to get all the important data we needed to complete our goal. To find the best scorer, we must analyze how much they scored and how efficient they scored. Our code traverses through the 1D arrays and data and adds up the PPG and the TS% for each player. Then it finds which player has the highest sum of the two stats to determine the "best scorer". Using a toString method we print out the player's name which in this case was Joel Embiid who is the best scorer according to our program.
